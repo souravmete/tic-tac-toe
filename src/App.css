@@ -1,0 +1,16 @@
+.title{
+  font-size:40px;
+  display:flex;
+  justify-content:center;
+  color:blue;
+  font-weight:600;
+}
+.board-row{
+  display:flex;
+  justify-content:space-evenly;
+  align-items:center;
+}
+.board-container{
+  border:none;
+  margin: 20px;
+}
